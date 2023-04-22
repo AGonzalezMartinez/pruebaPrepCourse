@@ -1,2 +1,1 @@
-# pruebaPrepCourse
-Solo es un ejemplo
+esto es un proyecto de repositorio y como clonarlo con git hub en el escritorio local
